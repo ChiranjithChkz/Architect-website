@@ -190,6 +190,8 @@
 }
 
 
+
+
 /* sponsor related style */
 .sponsor-info{
   max-width: 540px;
@@ -252,7 +254,8 @@
          }
          #experience-badge{
           margin-top: 20px;
-          margin-left: 20px;
+          margin-left: 8px;
+          
          }
          .footer-description{
           padding: 10px 20px;
@@ -260,6 +263,9 @@
          }
          .footer{
           margin: 20px 30px;
+         }
+         #feature-architect-img{
+          width: 100%;
          }
 
 }
